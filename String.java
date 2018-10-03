@@ -1,6 +1,6 @@
 class String {
   public static void main(String[] args) {
-    if(num=1)
+    for(n=5;n<=5;n++)
     System.out.println("hello ");
   }
 }
