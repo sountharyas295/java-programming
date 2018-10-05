@@ -5,9 +5,9 @@ class Power {
   public static void main(String[] args) {
     long n,p,r=1;
      Scanner sc=new Scanner(System.in);
-     System.out.println("enter number");
+     System.out.println("");
       n=sc.nextLong();
-      System.out.println("enter power");
+      System.out.println("");
       p=sc.nextLong();
        if(n>=0&&p==0)
           r =1;
